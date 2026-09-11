@@ -1,0 +1,11 @@
+{
+  "name": "RestaurantMenu",
+  "version": "1.0.0",
+  "description": "Static menu site data generator",
+  "scripts": {
+    "generate-menu": "node scripts/generate-menu.js"
+  },
+  "devDependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

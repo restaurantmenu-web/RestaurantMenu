@@ -39,7 +39,7 @@ const text = {
 
 // Geri bildirim butonunun açacağı MS Forms linki. Link hazır olunca tırnakların arasına yapıştır.
 // Boş bırakılırsa buton görünür ama tıklanınca bir şey olmaz.
-const FEEDBACK_FORM_URL = '';
+const FEEDBACK_FORM_URL = 'https://forms.cloud.microsoft/e/0DAfXPFDUi';
 
 const LANG_LABELS = { tr: 'TR', en: 'EN', ja: 'JA', 'ja-latn': 'JA-L' };
 const PHOTO_EXTS = ['jpg', 'jpeg', 'png', 'webp'];
